@@ -10,7 +10,7 @@ To use, add the following to the end of your URL location:
 
 If you have a ? in the URL already, swap it with a &
 
-This plugin is WordPress Network compatible - that is, you can enable it network wide.
+This plugin differentiates itself by having a zero footprint.  It does not leave any visible buttons, add any extra javascripts or CSS styles.  It is also WordPress Network compatible - that is, you can enable it network wide.
 
 Collaborate, participate, or fork this plugin on [Github](https://github.com/zedzedzed/toggle-toolbar).
 
