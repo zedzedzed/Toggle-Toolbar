@@ -36,5 +36,5 @@ The normal plugin install process applies, that is search for `toggle toolbar` f
 
 == Changelog ==
 = 1601 =
-* Released: xx
+* Released: 27 January 2016
 * First world release
